@@ -18,6 +18,7 @@ const App = () => {
       <Tab.Screen name="Profile" component={Profile} />
       <Tab.Screen name="shop" component={Shop} />
       <Tab.Screen name="Cart" component={Cart} />
+      <Tab.Screen name="dgdhdvud" component={addfd} />
     </Tab.Navigator>
     </NavigationContainer>
   )
